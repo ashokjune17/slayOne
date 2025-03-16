@@ -62,7 +62,7 @@ button {
   height: 59.085px;
   top: 12.85px;
   left: 609px;
-  background: url(assests\slay.svg)
+  background: url(assests/slay.svg)
     no-repeat center;
   background-size: cover;
   z-index: 7;
@@ -73,7 +73,7 @@ button {
   height: 46px;
   top: 13px;
   left: 1217px;
-  background: url(assests\nav.svg)
+  background: url(assests/nav.svg)
     no-repeat center;
   background-size: cover;
   z-index: 4;
@@ -85,7 +85,7 @@ button {
   height: 14.101px;
   top: 29.874px;
   left: 1230px;
-  background: url(assests\group-background.svg)
+  background: url(assests/group-background.svg)
     no-repeat center;
   background-size: cover;
   z-index: 6;
@@ -97,7 +97,7 @@ button {
   height: 745px;
   top: 13px;
   left: 0;
-  background: url(assests\rectangle-background.png.png)
+  background: url(assests/rectangle-background.png.png)
     no-repeat center;
   background-size: cover;
   border-radius: 0 0 20px 20px;
@@ -108,7 +108,7 @@ button {
   height: 745px;
   top: 0;
   left: 0;
-  background: url(assests\mask-group-img.png)
+  background: url(assests/mask-group-img.png)
     no-repeat center;
   background-size: cover;
   z-index: 1;
@@ -170,7 +170,7 @@ button {
   height: 880px;
   margin: 55px 0 0 0;
   z-index: 11;
-  -webkit-mask-image: url(assests\mask-group-3.png);
+  -webkit-mask-image: url(assests/mask-group-3.png);
   -webkit-mask-size: cover;
 }
 .group-4 {
@@ -187,7 +187,7 @@ button {
   height: 1185px;
   top: 0;
   left: 781px;
-  background: url(assests\back-teeth-background.svg)
+  background: url(assests/back-teeth-background.svg)
     no-repeat center;
   background-size: cover;
   z-index: 14;
@@ -234,7 +234,7 @@ button {
   top: 0;
   left: 6.65%;
   z-index: 20;
-  -webkit-mask-image: url(assests\mask-group-7.png);
+  -webkit-mask-image: url(assests/mask-group-7.png);
   -webkit-mask-size: cover;
 }
 .group-8 {
@@ -251,7 +251,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-1.png)
+  background: url(assests/mask-img-1.png)
     no-repeat center;
   background-size: cover;
   z-index: 23;
@@ -315,7 +315,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-2.png)
+  background: url(assests/mask-img-2.png)
     no-repeat center;
   background-size: cover;
   z-index: 28;
@@ -375,7 +375,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-3.png)
+  background: url(assests/mask-img-3.png)
     no-repeat center;
   background-size: cover;
   z-index: 33;
@@ -439,7 +439,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-1.png)
+  background: url(assests/mask-img-1.png)
     no-repeat center;
   background-size: cover;
   z-index: 38;
@@ -503,7 +503,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-2.png)
+  background: url(assests/mask-img-2.png)
     no-repeat center;
   background-size: cover;
   z-index: 43;
@@ -563,7 +563,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\mask-img-3.png)
+  background: url(assests/mask-img-3.png)
     no-repeat center;
   background-size: cover;
   z-index: 48;
@@ -619,7 +619,7 @@ button {
   height: 60px;
   top: 205px;
   left: 0;
-  background: url(assests\group-background.svg)
+  background: url(assests/group-background.svg)
     no-repeat center;
   background-size: cover;
   z-index: 18;
@@ -631,7 +631,7 @@ button {
   height: 60px;
   top: 215px;
   left: 95.3%;
-  background: url(assests\group-background.svg)
+  background: url(assests/group-background.svg)
     no-repeat center;
   background-size: cover;
   z-index: 19;
@@ -643,7 +643,7 @@ button {
   height: 1065px;
   top: 566px;
   left: 0;
-  background: url(assests\tooth.png)
+  background: url(assests/tooth.png)
     no-repeat center;
   background-size: cover;
   z-index: 15;
@@ -665,7 +665,7 @@ button {
   top: 0;
   left: 0;
   z-index: 53;
-  -webkit-mask-image: url(assests\fabric-techture-text.png);
+  -webkit-mask-image: url(assests/fabric-techture-text.png);
   -webkit-mask-size: cover;
 }
 .black-background-with-fabric-texture {
@@ -674,7 +674,7 @@ button {
   height: 755.588px;
   top: -78px;
   left: -1.18%;
-  background: url(assests\fabric-techture.png)
+  background: url(assests/fabric-techture.png)
     no-repeat center;
   background-size: cover;
   z-index: 54;
@@ -719,7 +719,7 @@ button {
   height: 472.923px;
   top: 254px;
   left: 62.48%;
-  background: url(assests\teeth.png)
+  background: url(assests/teeth.png)
     no-repeat center;
   background-size: cover;
   z-index: 55;
@@ -848,7 +848,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\doctor.png)
+  background: url(assests/doctor.png)
     no-repeat center;
   background-size: cover;
   z-index: 94;
@@ -900,7 +900,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\doctor-1.png)
+  background: url(assests/doctor-1.png)
     no-repeat center;
   background-size: cover;
   z-index: 99;
@@ -952,7 +952,7 @@ button {
   width: 332px;
   height: 237px;
   margin: 14px 0 0 14px;
-  background: url(assests\doctor-2.png)
+  background: url(assests/doctor-2.png)
     no-repeat center;
   background-size: cover;
   z-index: 104;
@@ -994,7 +994,7 @@ button {
   height: 60px;
   top: 187px;
   left: 0;
-  background: url(assests\back.svg)
+  background: url(assests/back.svg)
     no-repeat center;
   background-size: cover;
   z-index: 108;
@@ -1006,7 +1006,7 @@ button {
   height: 60px;
   top: 187px;
   left: 95.3%;
-  background: url(assests\forward.svg)
+  background: url(assests/forward.svg)
     no-repeat center;
   background-size: cover;
   z-index: 109;
@@ -1453,7 +1453,7 @@ button {
   position: relative;
   width: 40px;
   height: 40px;
-  background: url(assests\linkedin.png)
+  background: url(assests/linkedin.png)
     no-repeat center;
   background-size: cover;
   z-index: 89;
@@ -1463,7 +1463,7 @@ button {
   position: relative;
   width: 40px;
   height: 40px;
-  background: url(assests\facebook.png)
+  background: url(assests/facebook.png)
     no-repeat center;
   background-size: cover;
   z-index: 90;
@@ -1473,7 +1473,7 @@ button {
   position: relative;
   width: 40px;
   height: 40px;
-  background: url(assests\instagram.png)
+  background: url(assests/instagram.png)
     no-repeat center;
   background-size: cover;
   z-index: 91;
