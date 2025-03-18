@@ -170,7 +170,7 @@ button {
   height: 880px;
   margin: 55px 0 0 0;
   z-index: 11;
-  -webkit-mask-image: url(assests/about_us/mask-group-3.png);
+  background: url(assests/about_us/mask-group.png);
   -webkit-mask-size: cover;
 }
 .group-4 {
@@ -234,7 +234,7 @@ button {
   top: 0;
   left: 6.65%;
   z-index: 20;
-  -webkit-mask-image: url(assests/about_us/mask-group-7.png);
+  -webkit-mask-image: url(assests/about_us/mask-group-1.png);
   -webkit-mask-size: cover;
 }
 .group-8 {
@@ -246,7 +246,7 @@ button {
   z-index: 21;
   border-radius: 20px;
 }
-.img {
+.mask-img {
   position: relative;
   width: 332px;
   height: 237px;
